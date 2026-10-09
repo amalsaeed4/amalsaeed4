@@ -1,6 +1,6 @@
 ### hey, I'm Amal 👋
 
-Software engineer in Dallas who likes building products people actually use, end to end, from the database to the UI.
+Software engineer who likes building products people actually use, end to end, from the database to the UI.
 
 - 🚀 Software Engineer, Product at **[felixx](https://felixx.app)**: the study platform that actually knows your class. I've built university onboarding, AI study features, Canvas LMS course sync, and referral and growth systems.
 - 🎓 B.S. Software Engineering, **UT Dallas** '26
