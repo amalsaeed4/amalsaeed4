@@ -2,10 +2,10 @@
 
 Software engineer in Dallas who likes building products people actually use, end to end, from the database to the UI.
 
-- 🚀 Software Engineer, Product at **[felixx](https://felixx.app)**: the study platform that actually knows your class. I've built university onboarding, Canvas LMS course sync, Stripe billing, lifecycle email, referral and growth systems, and AI study features.
+- 🚀 Software Engineer, Product at **[felixx](https://felixx.app)**: the study platform that actually knows your class. I've built university onboarding, AI study features, Canvas LMS course sync, and referral and growth systems.
 - 🎓 B.S. Software Engineering, **UT Dallas** '26
 - 🛠️ Currently building: side projects (coming soon 👀)
-- 💬 Ask me about: payments edge cases, LMS integrations, shipping fast at an early-stage startup
+- 💬 Ask me about: building AI features students actually use, growth at an early-stage startup, LMS integrations
 
 #### 🧰 Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
