@@ -28,5 +28,6 @@ Software engineer who likes building products people actually use, end to end, f
 - **[CarMatch](https://devpost.com/software/carmatch-w0zn4h)**: vehicle search with Gemini-powered recommendations and a VR viewer (hackathon)
 
 #### 📫 Find me
+[![Website](https://img.shields.io/badge/amalsaeed.me-B9A5FF?style=flat&logo=googlechrome&logoColor=1F1B2E)](https://amalsaeed.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-saeed-swe)
 [![felixx](https://img.shields.io/badge/felixx.app-7C5CFF?style=flat)](https://felixx.app)
